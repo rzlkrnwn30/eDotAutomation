@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC003_Apply_Filter_On_Articles_Page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>58e47995-8976-4be3-9ae8-6af7e0940c9c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7d2a699b-75bb-4361-a8a3-41c6c8f87119</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'emagineer'</defaultValue>
+      <description></description>
+      <id>7d2a699b-75bb-4361-a8a3-41c6c8f87119</id>
+      <masked>false</masked>
+      <name>filter</name>
+   </variable>
+</TestCaseEntity>

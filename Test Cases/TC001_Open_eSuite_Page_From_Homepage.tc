@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC001_Open_eSuite_Page_From_Homepage</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3a74b327-4325-4c3a-aa33-bf3337411baa</testCaseGuid>
+</TestCaseEntity>
