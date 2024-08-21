@@ -1,4 +1,4 @@
-# Edot.id Automation Testing with Katalon
+# eDot Automation Testing with Katalon
 
 This repository contains automation test scripts for the edot.id website, utilizing Katalon Studio. The test cases cover essential functionalities to ensure a smooth user experience on the site.
 
