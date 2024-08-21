@@ -31,36 +31,36 @@ Before running the tests, ensure you have the following installed:
 ## Test Cases
 
 1. Open eSuite Page from Home Page
-  a.  Objective:
-      Verify that users can navigate to the eSuite page from the home page.
-  b.  Steps:
+   - Objective:
+       Verify that users can navigate to the eSuite page from the home page.
+   - Steps:
       - Launch the browser and navigate to the edot.id home page.
       - Click "Products" on the header
       - Click 'eSuite"
       - Verify that the eSuite page is displayed.
-  c. Expected Result:
+   - Expected Result:
       The eSuite page should load successfully with all expected elements visible.
 
 2. Submit Valid Contact Us Form
-  a. Objective:
+   - Objective:
       Ensure that users can submit a valid "Contact Us" form.
-  b. Steps:
-    - Navigate to the Contact Us page from the home page.
-    - Fill in the form with valid details (Name, Email, Phone Number, etc.).
-    - Submit the form.
-    - Verify that a success message is displayed.
-  c. Expected Result:
-    A confirmation message should appear, indicating that the form was submitted successfully.
+   - Steps:
+      - Navigate to the Contact Us page from the home page.
+      - Fill in the form with valid details (Name, Email, Phone Number, etc.).
+      - Submit the form.
+      - Verify that a success message is displayed.
+   - Expected Result:
+      A confirmation message should appear, indicating that the form was submitted successfully.
 
 3. Apply Filter on Articles Page
-  a. Objective:
-    Validate the functionality of the filter feature on the Articles page.
-  b. Steps:
-    - Navigate to the Articles page from the home page.
-    - Apply a specific filter.
-    - Verify that the displayed articles match the applied filter criteria.
-  c. Expected Result:
-    The articles displayed should correspond to the filter applied.
+   - Objective:
+       Validate the functionality of the filter feature on the Articles page.
+   - Steps:
+      - Navigate to the Articles page from the home page.
+      - Apply a specific filter.
+      - Verify that the displayed articles match the applied filter criteria.
+   - Expected Result:
+      The articles displayed should correspond to the filter applied.
 
   ## Execution
     - To execute the tests:
