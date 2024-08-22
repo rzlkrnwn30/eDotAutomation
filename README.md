@@ -10,8 +10,6 @@ This repository contains automation test scripts for the edot.id website, utiliz
   - [2. Submit Valid Contact Us Form](#2-submit-valid-contact-us-form)
   - [3. Apply Filter on Articles Page](#3-apply-filter-on-articles-page)
 - [Execution](#execution)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Prerequisites
 
